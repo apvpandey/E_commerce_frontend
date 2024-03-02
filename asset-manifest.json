@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/E_commerce_frontend/static/css/main.2e5dfc6c.css",
+    "main.js": "/E_commerce_frontend/static/js/main.80e5a07a.js",
+    "static/js/988.c52300f6.chunk.js": "/E_commerce_frontend/static/js/988.c52300f6.chunk.js",
+    "static/media/cart-image2.png": "/E_commerce_frontend/static/media/cart-image2.0b51be8d0b88349419af.png",
+    "static/media/mobile-payment.jpg": "/E_commerce_frontend/static/media/mobile-payment.226692672887c6158105.jpg",
+    "index.html": "/E_commerce_frontend/index.html",
+    "main.2e5dfc6c.css.map": "/E_commerce_frontend/static/css/main.2e5dfc6c.css.map",
+    "main.80e5a07a.js.map": "/E_commerce_frontend/static/js/main.80e5a07a.js.map",
+    "988.c52300f6.chunk.js.map": "/E_commerce_frontend/static/js/988.c52300f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5dfc6c.css",
+    "static/js/main.80e5a07a.js"
+  ]
+}
